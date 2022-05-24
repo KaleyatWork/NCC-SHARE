@@ -8,7 +8,7 @@ Abbreviations found in the actual NCC-MERP.pdf attached.
 by Stephen A. Vaughn MD PhD NWMETRO Rio Rancho NM stephen.vaughn2@va.gov
 AutoHotKey
 
-This project utilizes a simple substitution of pharmaceutical abbreviations ascribed as "dangerous" by the NCC-MERP (The National Coordinating Council for Medication Error Reporting and Prevention) see https://www.nccmerp.org/ .  Creation and distribution does not imply agreement with findings of the NCC-MERP assignation of "dangerous abbreviations."
+This project utilizes a simple substitution of pharmaceutical abbreviations ascribed as "dangerous" by the NCC-MERP (The National Coordinating Council for Medication Error Reporting and Prevention) see <https://www.nccmerp.org/> .  Creation and distribution does not imply agreement with findings of the NCC-MERP assignation of "dangerous abbreviations."
 
 The project originated in and was completed for a "lean-six-sigma" project under the auspices of the VHA, and upon its completed, conveyed in its entirety with all right, title and interest as herein described to the Veterans' Administration.  
 
@@ -18,5 +18,4 @@ Copyright 2022 Veterans Administration MIT License. Permission is hereby granted
 
 Although the project in whole and individually is the property of the Veterans' Administration, NO AUTHORITY, RIGHT OR PERMISSION is hereby implied or conveyed, for its downloading, compiling, execution or other use in systems or property such as the Veterans' Administration digital equipment, hardware or software, which controls and forbids the downloading of software and such things not previously determined in the interests of the Veterans' Administration; and no such ruling has been issued by the Veterans' Administration permitting the use of this Property.
 
-All rights reserved by the Veterans' Administration under license.  Inquiries for sublicensing and/or selling may be directed to the DigitalVA, U.S. Department of Veterans Affairs at https://www.oit.va.gov/ 
-
+All rights reserved by the Veterans' Administration under license.  Inquiries for sublicensing and/or selling may be directed to the DigitalVA, U.S. Department of Veterans Affairs at <https://www.oit.va.gov/>

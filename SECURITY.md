@@ -8,7 +8,6 @@ There are no security deficits known
 | ------- | ------------------ |
 | 3.1.x   | :white_check_mark: |
 
-
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
