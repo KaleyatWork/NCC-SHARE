@@ -1,5 +1,6 @@
 #my gitignore file
-NCC-SHAREwork.code-workspace
+*.code-workspace
 Foo.txt
 *.txt
 *.log
+*.jpg
